@@ -28,8 +28,7 @@
 
 ## Tech Stack
 
-- **Backend:** Python, Flask, Gunicorn  
-- **AI/ML:** Custom Whisper and HuBERT models (Transformers, PyTorch)  
-- **Audio Processing:** Librosa, SoundFile  
-- **Frontend:** Vanilla HTML5, Modern CSS3 (Outfit Typography), JavaScript  
+- **Backend:** Python, Flask 
+- **AI/ML:** Custom Whisper and HuBERT models (Transformers, PyTorch)    
+- **Frontend:** HTML, CSS, JavaScript
 
